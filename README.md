@@ -1,41 +1,5 @@
 # 🌾 AgriSure - Farmer Transparency Platform
 
-<div align="center">
-
-![AgriSure Banner](https://img.shields.io/badge/🏆%20HACKATHON%20PROJECT-AgriSure%20by%20Team%20F3-green?style=for-the-badge)
-
-[![Live Demo](https://img.shields.io/badge/🌐%20LIVE%20DEMO-agrisure--f3.netlify.app-blue?style=for-the-badge&logo=netlify)](https://agrisure-f3.netlify.app/)
-[![GitHub](https://img.shields.io/badge/📂%20GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/bakaprince/AgriSure)
-
-**🎯 Eliminating Corruption • Ensuring Transparency • Empowering Farmers**
-
-</div>
-
----
-
-## 🏆 Team F3 - The Innovators
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/👨‍💻-SUDEEP%20KUSHWAHA-blue?style=for-the-badge" alt="Sudeep"/>
-<br><strong>FullStack Developer</strong>
-<br>🔧 Backend Architecture & API Development
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎨-VIKAS%20CHOUDHARY-green?style=for-the-badge" alt="Vikas"/>
-<br><strong>Frontend Developer & UI/UX Designer</strong>
-<br>🎨 User Experience & Interface Design
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/📊-ABHISHEK-orange?style=for-the-badge" alt="Abhishek"/>
-<br><strong>Research & Data Management</strong>
-<br>📈 Data Analytics & Research
-</td>
-</tr>
-</table>
----
-
 ## 🚀 Project Overview
 
 **AgriSure** is a revolutionary digital platform that **eliminates corruption** and **ensures transparency** in government agricultural schemes. Our solution directly addresses the ₹1.5 lakh crore agricultural subsidy distribution challenge in India.
@@ -198,7 +162,7 @@ npm run dev
 ## 🌐 Live Demo & Deployment
 
 ### 🔗 Experience AgriSure Live
-**🌐 Website**: [https://agrisure-f3.netlify.app/](https://agrisure-f3.netlify.app/)
+**🌐 Website**: [https://agrisure-six.vercel.app/](https://agrisure-six.vercel.app/)
 
 ### 📊 Performance Metrics
 - ⚡ **Lighthouse Score**: 95+ (Performance, Accessibility, SEO)
